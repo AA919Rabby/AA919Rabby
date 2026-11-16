@@ -1,6 +1,8 @@
-<!-- Full-Width Animated Cyber-Grid Banner -->
+<!-- Live Interactive Arcade Game Banner at the Top -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+  <a href="https://github.com/lostyle/flappy-bird-gha" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Play Flappy Bird Live Game" width="100%" />
+  </a>
 </p>
 
 <!-- Glowing Title + Complete Role Subtitle -->
@@ -14,7 +16,7 @@
   </a>
 </p>
 
-<!-- Quick Interactive Action Pills (Repo Count Removed) -->
+<!-- Quick Interactive Action Pills -->
 <p align="center">
   <a href="https://mdrabbi-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Explore_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio"/>
@@ -22,8 +24,11 @@
   <a href="https://www.linkedin.com/in/md-rabbi-28856339a" target="_blank">
     <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/lostyle/flappy-bird-gha" target="_blank">
+    <img src="https://img.shields.io/badge/🕹️_Play_Flappy_Bird-7C3AED?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Game"/>
+  </a>
   <a href="https://github.com/AA919Rabby">
-    <img src="https://komarev.com/ghpvc/?username=AA919Rabby&label=VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=AA919Rabby&label=VIEWS&color=0EA5E9&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
@@ -84,23 +89,6 @@
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets"/>
   <img src="https://img.shields.io/badge/Maps_&_Geolocation-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Maps"/>
-</p>
-
----
-
-### 🕹️ Play Flappy Bird Right Here on My Profile!
-> *Test your skills with an interactive mini-game built right into GitHub profiles!*
-
-<p align="center">
-  <a href="https://github.com/lostyle/flappy-bird-gha" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Flappy Bird Play Game" width="600px"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/lostyle/flappy-bird-gha" target="_blank">
-    <img src="https://img.shields.io/badge/🎮_Play_Flappy_Bird_In_GitHub-38BDF8?style=for-the-badge&logo=gamepad&logoColor=090D16" alt="Play Flappy Bird"/>
-  </a>
 </p>
 
 ---
