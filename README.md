@@ -1,26 +1,27 @@
-<!-- Animated Wave Header Banner -->
+<!-- Uncommon Cyberpunk Neon-Void Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Md%20Rabbi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Flutter%20%7C%20AI%20Agent%20Developer&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090D16,50:1E1B4B,100:0F172A&height=210&section=header&text=Md%20Rabbi&fontSize=46&fontColor=38BDF8&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%2C%20Flutter%20%26%20AI%20Agent%20Developer&descAlignY=62&descSize=16&descColor=E2E8F0" width="100%" />
 </p>
 
-<!-- Animated Typing SVG -->
+<!-- Terminal Prompt Typing Animation -->
 <p align="center">
   <a href="https://mdrabbi-portfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Cross-Platform+Flutter+Mobile+Apps;Architecting+Scalable+Full+Stack+Systems;Engineering+RAG+%26+Agentic+AI+Pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=%3E_Full+Stack+Developer%2C+Flutter+%26+AI+Agent+Developer;%3E_Architecting+Autonomous+RAG+%26+Multi-Agent+Workflows;%3E_Shipping+Real-Time+Mobile+%26+Cloud+Systems" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-<!-- Animated Coding GIF + Intro -->
-<img align="right" alt="Coding Animation" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<!-- Uncommon 3D Neon Isometric / Cybernetic Visual + Intro -->
+<img align="right" alt="3D Cybernetic Animation" width="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5sN3U2dWh5OWR6dHZsMWZ5a3F1c2V5bW1xOXh5aG0wNHp6dWx2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-### 👋 About Me
+### ⚡ About Me
 
-- 🔭 Currently building **Flutter mobile apps**, **Node.js/React web systems**, and **Agentic AI / RAG** solutions
-- ⚡ Experienced with real-time **WebSockets**, **Maps**, **CI/CD**, and **Stripe / SSLCommerz** payment integrations
+- 🚀 **Full Stack Developer, Flutter & AI Agent Developer** crafting production mobile & web systems
+- 🧠 Building **Agentic AI** & **RAG** pipelines alongside scalable **Node.js / React** backends
+- 📱 Shipping cross-platform **Flutter** apps with **GetX**, **WebSockets**, **Maps**, **CI/CD**, and **Stripe / SSLCommerz**
 - 🌐 Portfolio: **[mdrabbi-portfolio.netlify.app](https://mdrabbi-portfolio.netlify.app/)**
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/md-rabbi-28856339a)**
+- 💼 Connect: **[LinkedIn](https://www.linkedin.com/in/md-rabbi-28856339a)**
 
 <br clear="right"/>
 
@@ -70,7 +71,7 @@
 
 ---
 
-### ⚡ Where to find me
+### 🌐 Where to find me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md-rabbi-28856339a" target="_blank">
@@ -79,7 +80,7 @@
   <a href="https://mdrabbi-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AA919Rabby&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AA919Rabby&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -94,7 +95,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AA919Rabby&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
-<!-- Animated Footer Wave -->
+<!-- Matching Venom Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090D16,50:1E1B4B,100:0F172A&height=110&section=footer" width="100%" />
 </p>
