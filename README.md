@@ -1,6 +1,6 @@
-<!-- Wide Landscape Star / Night-Sky Cybernetic Header -->
+<!-- Wide Landscape Falling Star / Night-Sky Cyber Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Night Star Landscape Animation" width="100%" />
+  <img src="https://media.giphy.com/media/26FPqAH61DhujDW00/giphy.gif" alt="Falling Stars Night Sky Banner" width="100%" height="220" />
 </p>
 
 <!-- Glowing Title + Complete Role Subtitle -->
