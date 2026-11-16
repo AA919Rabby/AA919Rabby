@@ -1,16 +1,12 @@
-<!-- Falling Stars Animation Banner (GitHub API Whitelisted) -->
+<!-- Animated Landscape Header with MD RABBI Built-in -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,7,14,21&height=220&section=header&animation=twinkling" alt="Falling Stars Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,7,14,21&height=240&section=header&text=MD%20RABBI&fontSize=52&fontAlignY=42&fontColor=ffffff&desc=%E2%9A%A1%20Full%20Stack%20%7C%20Flutter%20%7C%20AI%20Agent%20Developer&descSize=18&descAlignY=64&descColor=38bdf8&animation=twinkling" alt="MD RABBI Header Animation" width="100%" />
 </p>
 
-<!-- Glowing Title + Complete Role Subtitle -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=36&duration=2500&pause=10000&color=38BDF8&center=true&vCenter=true&width=800&height=55&lines=HI+%F0%9F%91%8B%2C+I'M+MD+RABBI" alt="Hi, I'm Md Rabbi" />
-</p>
-
+<!-- Typing Animated Roles & Focus -->
 <p align="center">
   <a href="https://mdrabbi-portfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3200&pause=1200&color=A855F7&center=true&vCenter=true&width=820&height=45&lines=Full+Stack+Developer%2C+Flutter+%26+AI+Agent+Developer;%3E_+Building+Autonomous+RAG+%26+Multi-Agent+Systems;%3E_+Shipping+Cross-Platform+Apps+%26+Scalable+APIs" alt="Role Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3200&pause=1200&color=A855F7&center=true&vCenter=true&width=820&height=45&lines=Building+Autonomous+RAG+%26+Multi-Agent+Systems;Shipping+Cross-Platform+Apps+%26+Scalable+APIs;Full+Stack+Development+with+Flutter+%26+Node.js" alt="Role Typing SVG" />
   </a>
 </p>
 
@@ -35,7 +31,7 @@
 ### ⚡ About Me
 
 - 🚀 **Full Stack Developer, Flutter & AI Agent Developer** crafting production mobile & web systems
-- 🧠 Building **Agentic AI** & **RAG** pipelines alongside scalable **Node.js / React.js** 
+- 🧠 Building **Agentic AI** & **RAG** pipelines alongside scalable **Node.js / React.js**
 - 📱 Shipping cross-platform **Flutter** apps with **GetX**, **WebSockets**, **Maps**, **CI/CD**, and **Stripe / SSLCommerz**
 - 🌐 Portfolio: **[mdrabbi-portfolio.netlify.app](https://mdrabbi-portfolio.netlify.app/)**
 - 💼 Connect: **[LinkedIn](https://www.linkedin.com/in/md-rabbi-28856339a)**
