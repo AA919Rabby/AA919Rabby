@@ -16,7 +16,7 @@
 
 <!-- Quick Interactive Action Pills -->
 <p align="center">
-  <a href="https://mdrabbi-portfolio.netlify.app/" target="_blank">
+  <a href="https://mdrabbi-portfolio.netlify.app/" target="_jsdelivr" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Explore_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/md-rabbi-28856339a" target="_blank">
@@ -59,7 +59,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/dir-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
@@ -71,7 +71,6 @@
   <img src="https://img.shields.io/badge/SSLCommerz-0052CC?style=for-the-badge&logo=contactlesspayment&logoColor=white" alt="SSLCommerz"/>
 </p>
 
-
 ---
 
 ### 📱 Mobile App Development (Flutter)
@@ -79,7 +78,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/silent/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Maps" width="40" height="40"/>
 </p>
 
@@ -90,6 +89,22 @@
   <img src="https://img.shields.io/badge/Maps_&_Geolocation-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Maps"/>
 </p>
 
+---
+
+### 🎮 Play a Game Right Here on My Profile!
+> *Click the play button or banner below to test your skills with a Flappy Bird style mini-game built for GitHub profiles!*
+
+<p align="center">
+  <a href="https://github.com/ashishjangra27/ashishjangra27" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Play Game" width="600px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/lostyle/flappy-bird-gha" target="_blank">
+    <img src="https://img.shields.io/badge/🕹️_Play_Flappy_Bird_In_GitHub-38BDF8?style=for-the-badge&logo=gamepad&logoColor=090D16" alt="Flappy Bird Game"/>
+  </a>
+</p>
 
 ---
 
