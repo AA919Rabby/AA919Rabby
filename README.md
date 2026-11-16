@@ -1,6 +1,6 @@
-<!-- Uncommon Cyberpunk Neon-Void Animated Header -->
+<!-- Reliable Cyberpunk Gradient Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090D16,50:1E1B4B,100:0F172A&height=210&section=header&text=Md%20Rabbi&fontSize=46&fontColor=38BDF8&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%2C%20Flutter%20%26%20AI%20Agent%20Developer&descAlignY=62&descSize=16&descColor=E2E8F0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:311042,100:0F172A&height=210&section=header&text=Md%20Rabbi&fontSize=46&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%2C%20Flutter%20%26%20AI%20Agent%20Developer&descAlignY=60&descSize=16&descColor=E2E8F0" width="100%" />
 </p>
 
 <!-- Terminal Prompt Typing Animation -->
@@ -12,8 +12,8 @@
 
 ---
 
-<!-- Uncommon 3D Neon Isometric / Cybernetic Visual + Intro -->
-<img align="right" alt="3D Cybernetic Animation" width="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5sN3U2dWh5OWR6dHZsMWZ5a3F1c2V5bW1xOXh5aG0wNHp6dWx2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<!-- Clean Transparent Developer Animation + Intro -->
+<img align="right" alt="Developer Animation" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ### ⚡ About Me
 
@@ -80,7 +80,9 @@
   <a href="https://mdrabbi-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AA919Rabby&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/AA919Rabby">
+    <img src="https://komarev.com/ghpvc/?username=AA919Rabby&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
 
 ---
@@ -95,7 +97,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AA919Rabby&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
-<!-- Matching Venom Footer -->
+<!-- Matching Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090D16,50:1E1B4B,100:0F172A&height=110&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:311042,100:0F172A&height=110&section=footer" width="100%" />
 </p>
