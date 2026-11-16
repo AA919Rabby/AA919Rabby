@@ -1,6 +1,79 @@
-<!-- Live Animated Falling Stars Landscape Header -->
+<!-- Native GitHub-Supported Falling Stars Night Sky Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yusufip/yusufip/main/assets/stars.gif" alt="Falling Stars Landscape" width="100%" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" height="220" style="background:#090d16; border-radius:12px; display:block;">
+    <defs>
+      <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#050811" />
+        <stop offset="60%" stop-color="#0b1329" />
+        <stop offset="100%" stop-color="#182245" />
+      </linearGradient>
+      <linearGradient id="starTail" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#38bdf8" stop-opacity="1" />
+        <stop offset="50%" stop-color="#a855f7" stop-opacity="0.6" />
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+      </linearGradient>
+      <style>
+        .star { fill: #ffffff; animation: twinkle 3s infinite ease-in-out; }
+        .s1 { animation-delay: 0.2s; }
+        .s2 { animation-delay: 0.8s; }
+        .s3 { animation-delay: 1.5s; }
+        .s4 { animation-delay: 2.1s; }
+        .meteor {
+          stroke: url(#starTail);
+          stroke-width: 2.5;
+          stroke-linecap: round;
+          stroke-dasharray: 120;
+          stroke-dashoffset: 120;
+          animation: shoot 4.5s infinite linear;
+        }
+        .m1 { animation-delay: 0.5s; }
+        .m2 { animation-delay: 2.2s; }
+        .m3 { animation-delay: 3.5s; }
+        @keyframes twinkle {
+          0%, 100% { opacity: 0.2; transform: scale(0.8); }
+          50% { opacity: 1; transform: scale(1.3); }
+        }
+        @keyframes shoot {
+          0% { stroke-dashoffset: 120; transform: translate(0, 0); opacity: 0; }
+          5% { opacity: 1; }
+          25% { stroke-dashoffset: -120; transform: translate(350px, 140px); opacity: 0; }
+          100% { stroke-dashoffset: -120; transform: translate(350px, 140px); opacity: 0; }
+        }
+      </style>
+    </defs>
+
+    <!-- Deep Space Sky Background -->
+    <rect width="1200" height="240" fill="url(#skyGrad)" rx="12" />
+
+    <!-- Static & Twinkling Night Stars -->
+    <circle cx="80" cy="40" r="1.5" class="star s1" />
+    <circle cx="160" cy="90" r="2" class="star s3" />
+    <circle cx="240" cy="35" r="1" class="star s2" />
+    <circle cx="320" cy="110" r="1.5" class="star s4" />
+    <circle cx="450" cy="45" r="2" class="star s1" />
+    <circle cx="560" cy="80" r="1" class="star s3" />
+    <circle cx="680" cy="30" r="2.5" class="star s2" />
+    <circle cx="780" cy="95" r="1.5" class="star s4" />
+    <circle cx="890" cy="40" r="2" class="star s1" />
+    <circle cx="990" cy="85" r="1.2" class="star s3" />
+    <circle cx="1100" cy="50" r="2" class="star s2" />
+    <circle cx="1150" cy="100" r="1.5" class="star s4" />
+    <circle cx="120" cy="130" r="1" class="star s2" />
+    <circle cx="390" cy="125" r="1.5" class="star s1" />
+    <circle cx="620" cy="115" r="1.2" class="star s4" />
+    <circle cx="840" cy="120" r="2" class="star s3" />
+    <circle cx="1040" cy="130" r="1" class="star s1" />
+
+    <!-- Shooting / Falling Stars -->
+    <line x1="50" y1="10" x2="190" y2="70" class="meteor m1" />
+    <line x1="450" y1="5" x2="600" y2="65" class="meteor m2" />
+    <line x1="820" y1="15" x2="970" y2="75" class="meteor m3" />
+
+    <!-- Distant Cyber Mountains Landscape -->
+    <polygon points="0,240 90,165 210,210 340,150 490,215 620,160 760,220 890,145 1020,205 1130,155 1200,185 1200,240" fill="#070b14" opacity="0.6" />
+    <polygon points="0,240 140,185 260,225 410,175 530,225 690,170 820,225 960,175 1090,220 1200,180 1200,240" fill="#03050a" />
+    <line x1="0" y1="239" x2="1200" y2="239" stroke="#38bdf8" stroke-width="1.5" opacity="0.4" />
+  </svg>
 </p>
 
 <!-- Glowing Title + Complete Role Subtitle -->
