@@ -1,6 +1,6 @@
-<!-- Spinning Cyberpunk Ninja Star (Shuriken) Animation Banner -->
+<!-- Wide Landscape Falling Star / Shooting Star Night Sky Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW52OW1udXo0N2Yxd3U4NW9vOHF1c2l4cXVqZmx2OHR0N3JxbWxyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JIX9t2j0ZTN9S/giphy.gif" alt="Spinning Ninja Star Animation" width="220" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:1E1B4B,100:0F172A&height=220&section=header&text=Md%20Rabbi&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%2C%20Flutter%20%26%20AI%20Agent%20Developer&descAlignY=60&descSize=16&descColor=E2E8F0" width="100%" />
 </p>
 
 <!-- Glowing Title + Complete Role Subtitle -->
