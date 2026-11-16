@@ -1,6 +1,10 @@
-<!-- High Contrast Dark Night Animated Header with Bold Name & Exact Title -->
+<!-- Name & Title Banner via Verified Demolab Server -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,4,7&height=240&section=header&text=MD%20RABBI&fontSize=56&fontAlignY=40&fontColor=ffffff&desc=Full%20Stack%20Developer,%20Flutter%20%26%20AI%20Agent%20Developer&descSize=19&descAlignY=62&descColor=38BDF8&animation=twinkling" alt="MD RABBI Header Animation" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=46&duration=1000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=850&height=65&lines=MD+RABBI" alt="MD RABBI" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=1000&pause=100000&color=38BDF8&center=true&vCenter=true&width=850&height=35&lines=Full+Stack+Developer%2C+Flutter+%26+AI+Agent+Developer" alt="Full Stack Developer, Flutter & AI Agent Developer" />
 </p>
 
 <!-- Typing Animated Roles & Focus -->
