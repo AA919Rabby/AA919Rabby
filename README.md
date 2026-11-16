@@ -1,6 +1,6 @@
-<!-- Falling Stars Night Sky Landscape Header -->
+<!-- Verified Falling Stars Animation Banner -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Meteor_shower_animation.gif" alt="Falling Stars Landscape" width="100%" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/space.gif" alt="Falling Stars Landscape" width="100%" />
 </p>
 
 <!-- Glowing Title + Complete Role Subtitle -->
@@ -35,7 +35,7 @@
 ### ⚡ About Me
 
 - 🚀 **Full Stack Developer, Flutter & AI Agent Developer** crafting production mobile & web systems
-- 🧠 Building **Agentic AI** & **RAG** pipelines alongside scalable **Node.js / React** backends
+- 🧠 Building **Agentic AI** & **RAG** pipelines alongside scalable **Node.js / React** 
 - 📱 Shipping cross-platform **Flutter** apps with **GetX**, **WebSockets**, **Maps**, **CI/CD**, and **Stripe / SSLCommerz**
 - 🌐 Portfolio: **[mdrabbi-portfolio.netlify.app](https://mdrabbi-portfolio.netlify.app/)**
 - 💼 Connect: **[LinkedIn](https://www.linkedin.com/in/md-rabbi-28856339a)**
