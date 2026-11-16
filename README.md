@@ -1,8 +1,6 @@
-<!-- Live Interactive Arcade Game Banner at the Top -->
+<!-- Spinning Cyberpunk Ninja Star (Shuriken) Animation Banner -->
 <p align="center">
-  <a href="https://github.com/lostyle/flappy-bird-gha" target="_blank">
-    <img src="https://raw.githubusercontent.com/lostyle/flappy-bird-gha/main/assets/preview.gif" alt="Play Flappy Bird Live Game" width="100%" />
-  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW52OW1udXo0N2Yxd3U4NW9vOHF1c2l4cXVqZmx2OHR0N3JxbWxyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JIX9t2j0ZTN9S/giphy.gif" alt="Spinning Ninja Star Animation" width="220" />
 </p>
 
 <!-- Glowing Title + Complete Role Subtitle -->
@@ -23,9 +21,6 @@
   </a>
   <a href="https://www.linkedin.com/in/md-rabbi-28856339a" target="_blank">
     <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/lostyle/flappy-bird-gha" target="_blank">
-    <img src="https://img.shields.io/badge/🕹️_Play_Flappy_Bird-7C3AED?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Game"/>
   </a>
   <a href="https://github.com/AA919Rabby">
     <img src="https://komarev.com/ghpvc/?username=AA919Rabby&label=VIEWS&color=0EA5E9&style=for-the-badge" alt="Profile Views" />
