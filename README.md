@@ -1,6 +1,6 @@
-<!-- Verified Falling Stars Animation Banner -->
+<!-- Falling Stars Animation Banner (GitHub API Whitelisted) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/space.gif" alt="Falling Stars Landscape" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,7,14,21&height=220&section=header&animation=twinkling" alt="Falling Stars Banner" width="100%" />
 </p>
 
 <!-- Glowing Title + Complete Role Subtitle -->
@@ -35,7 +35,7 @@
 ### ⚡ About Me
 
 - 🚀 **Full Stack Developer, Flutter & AI Agent Developer** crafting production mobile & web systems
-- 🧠 Building **Agentic AI** & **RAG** pipelines alongside scalable **Node.js / React** 
+- 🧠 Building **Agentic AI** & **RAG** pipelines alongside scalable **Node.js / React.js** 
 - 📱 Shipping cross-platform **Flutter** apps with **GetX**, **WebSockets**, **Maps**, **CI/CD**, and **Stripe / SSLCommerz**
 - 🌐 Portfolio: **[mdrabbi-portfolio.netlify.app](https://mdrabbi-portfolio.netlify.app/)**
 - 💼 Connect: **[LinkedIn](https://www.linkedin.com/in/md-rabbi-28856339a)**
