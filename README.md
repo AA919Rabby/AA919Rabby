@@ -1,6 +1,6 @@
-<!-- Dark Night Animated Header with Bold Name & Title Inside -->
+<!-- Dark Night Animated Header with Bold Name & Exact Title Inside -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1e1b4b,100:0369a1&height=250&section=header&text=MD%20RABBI&fontSize=56&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Flutter%20%2B%20AI%20Agent%20Developer&descSize=19&descAlignY=60&descColor=38bdf8&animation=twinkling" alt="MD RABBI Header Animation" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1e1b4b,100:0369a1&height=250&section=header&text=MD%20RABBI&fontSize=56&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer,%20Flutter%20%26amp%3B%20AI%20Agent%20Developer&descSize=19&descAlignY=60&descColor=38bdf8&animation=twinkling" alt="MD RABBI Header Animation" width="100%" />
 </p>
 
 <!-- Typing Focus Subtitle -->
