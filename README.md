@@ -1,16 +1,22 @@
-<!-- Name & Title Banner via Verified Demolab Server -->
+<!-- Verified Animated Landscape Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=46&duration=1000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=850&height=65&lines=MD+RABBI" alt="MD RABBI" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=180&section=header&animation=twinkling" alt="Header Animation" width="100%" />
 </p>
 
+<!-- Large High-Contrast Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=1000&pause=100000&color=38BDF8&center=true&vCenter=true&width=850&height=35&lines=Full+Stack+Developer%2C+Flutter+%26+AI+Agent+Developer" alt="Full Stack Developer, Flutter & AI Agent Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=46&duration=1000&pause=100000&color=0284C7&center=true&vCenter=true&width=850&height=60&lines=MD+RABBI" alt="MD RABBI" />
 </p>
 
-<!-- Typing Animated Roles & Focus -->
+<!-- Exact Role Subtitle -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1000&pause=100000&color=0F172A&center=true&vCenter=true&width=850&height=35&lines=Full+Stack+Developer%2C+Flutter+%26+AI+Agent+Developer" alt="Full Stack Developer, Flutter & AI Agent Developer" />
+</p>
+
+<!-- Typing Focus Subtitle -->
 <p align="center">
   <a href="https://mdrabbi-portfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3200&pause=1200&color=A855F7&center=true&vCenter=true&width=820&height=45&lines=Building+Autonomous+RAG+%26+Multi-Agent+Systems;Shipping+Cross-Platform+Apps+%26+Scalable+APIs;Full+Stack+Development+with+Flutter+%26+Node.js" alt="Role Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3200&pause=1200&color=9333EA&center=true&vCenter=true&width=820&height=40&lines=%3E_+Building+Autonomous+RAG+%26+Multi-Agent+Systems;%3E_+Shipping+Cross-Platform+Apps+%26+Scalable+APIs" alt="Role Typing SVG" />
   </a>
 </p>
 
