@@ -1,12 +1,12 @@
-<!-- Reliable Cyberpunk Gradient Animated Header -->
+<!-- Reliable Animated Neon Name & Title Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:311042,100:0F172A&height=210&section=header&text=Md%20Rabbi&fontSize=46&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%2C%20Flutter%20%26%20AI%20Agent%20Developer&descAlignY=60&descSize=16&descColor=E2E8F0" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=3000&pause=10000&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=MD+RABBI" alt="Md Rabbi" />
 </p>
 
 <!-- Terminal Prompt Typing Animation -->
 <p align="center">
   <a href="https://mdrabbi-portfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=%3E_Full+Stack+Developer%2C+Flutter+%26+AI+Agent+Developer;%3E_Architecting+Autonomous+RAG+%26+Multi-Agent+Workflows;%3E_Shipping+Real-Time+Mobile+%26+Cloud+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=%3E_Full+Stack+Developer%2C+Flutter+%26+AI+Agent+Developer;%3E_Architecting+Autonomous+RAG+%26+Multi-Agent+Workflows;%3E_Shipping+Real-Time+Mobile+%26+Cloud+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -95,9 +95,4 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AA919Rabby&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
-</p>
-
-<!-- Matching Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:311042,100:0F172A&height=110&section=footer" width="100%" />
 </p>
