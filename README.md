@@ -1,6 +1,6 @@
-<!-- Wide Landscape Falling Star / Night-Sky Cyber Header -->
+<!-- Live Animated Falling Stars Landscape Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPqAH61DhujDW00/giphy.gif" alt="Falling Stars Night Sky Banner" width="100%" height="220" />
+  <img src="https://raw.githubusercontent.com/yusufip/yusufip/main/assets/stars.gif" alt="Falling Stars Landscape" width="100%" />
 </p>
 
 <!-- Glowing Title + Complete Role Subtitle -->
