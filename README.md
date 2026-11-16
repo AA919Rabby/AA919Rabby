@@ -1,6 +1,6 @@
-<!-- Wide Landscape Falling Star / Shooting Star Night Sky Banner -->
+<!-- Wide Landscape Star / Night-Sky Cybernetic Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:1E1B4B,100:0F172A&height=220&section=header&text=Md%20Rabbi&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%2C%20Flutter%20%26%20AI%20Agent%20Developer&descAlignY=60&descSize=16&descColor=E2E8F0" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Night Star Landscape Animation" width="100%" />
 </p>
 
 <!-- Glowing Title + Complete Role Subtitle -->
