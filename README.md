@@ -1,22 +1,12 @@
-<!-- Verified Animated Landscape Header -->
+<!-- Name and Exact Title directly INSIDE the Animation Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=180&section=header&animation=twinkling" alt="Header Animation" width="100%" />
-</p>
-
-<!-- Large High-Contrast Name -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=46&duration=1000&pause=100000&color=0284C7&center=true&vCenter=true&width=850&height=60&lines=MD+RABBI" alt="MD RABBI" />
-</p>
-
-<!-- Exact Role Subtitle -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1000&pause=100000&color=0F172A&center=true&vCenter=true&width=850&height=35&lines=Full+Stack+Developer%2C+Flutter+%26+AI+Agent+Developer" alt="Full Stack Developer, Flutter & AI Agent Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e293b,100:0284c7&height=250&section=header&text=MD%20RABBI&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%2C%20Flutter%20%26%20AI%20Agent%20Developer&descSize=18&descAlignY=60&descColor=38bdf8&animation=twinkling" alt="MD RABBI Header Animation" width="100%" />
 </p>
 
 <!-- Typing Focus Subtitle -->
 <p align="center">
   <a href="https://mdrabbi-portfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3200&pause=1200&color=9333EA&center=true&vCenter=true&width=820&height=40&lines=%3E_+Building+Autonomous+RAG+%26+Multi-Agent+Systems;%3E_+Shipping+Cross-Platform+Apps+%26+Scalable+APIs" alt="Role Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3200&pause=1200&color=9333EA&center=true&vCenter=true&width=820&height=40&lines=%3E_+Building+Autonomous+RAG+%26+Multi-Agent+Systems;%3E_+Shipping+Cross-Platform+Apps+%26+Scalable+APIs" alt="Role Typing SVG" />
   </a>
 </p>
 
