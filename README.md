@@ -1,12 +1,32 @@
-<!-- Reliable Animated Neon Name & Title Header -->
+<!-- Full-Width Animated Cyber-Grid Banner (Hosted on GitHub CDN - Never Breaks) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=3000&pause=10000&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=MD+RABBI" alt="Md Rabbi" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
 </p>
 
-<!-- Terminal Prompt Typing Animation -->
+<!-- Glowing Title + Complete Role Subtitle -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=36&duration=2500&pause=10000&color=38BDF8&center=true&vCenter=true&width=800&height=55&lines=HI+%F0%9F%91%8B%2C+I'M+MD+RABBI" alt="Hi, I'm Md Rabbi" />
+</p>
+
 <p align="center">
   <a href="https://mdrabbi-portfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=%3E_Full+Stack+Developer%2C+Flutter+%26+AI+Agent+Developer;%3E_Architecting+Autonomous+RAG+%26+Multi-Agent+Workflows;%3E_Shipping+Real-Time+Mobile+%26+Cloud+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3200&pause=1200&color=A855F7&center=true&vCenter=true&width=820&height=45&lines=Full+Stack+Developer%2C+Flutter+%26+AI+Agent+Developer;%3E_+Building+Autonomous+RAG+%26+Multi-Agent+Systems;%3E_+Shipping+Cross-Platform+Apps+%26+Scalable+APIs" alt="Role Typing SVG" />
+  </a>
+</p>
+
+<!-- Quick Interactive Action Pills -->
+<p align="center">
+  <a href="https://mdrabbi-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Explore_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-rabbi-28856339a" target="_blank">
+    <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AA919Rabby?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_35+_Repositories-1E1B4B?style=for-the-badge&logo=github&logoColor=A855F7" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/AA919Rabby">
+    <img src="https://komarev.com/ghpvc/?username=AA919Rabby&label=VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
@@ -24,24 +44,6 @@
 - 💼 Connect: **[LinkedIn](https://www.linkedin.com/in/md-rabbi-28856339a)**
 
 <br clear="right"/>
-
----
-
-### 📱 Mobile App Development (Flutter)
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Maps" width="40" height="40"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets"/>
-  <img src="https://img.shields.io/badge/Maps_&_Geolocation-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Maps"/>
-</p>
 
 ### 💻 Full Stack, AI & DevOps
 
@@ -69,21 +71,25 @@
   <img src="https://img.shields.io/badge/SSLCommerz-0052CC?style=for-the-badge&logo=contactlesspayment&logoColor=white" alt="SSLCommerz"/>
 </p>
 
+
 ---
 
-### 🌐 Where to find me
+### 📱 Mobile App Development (Flutter)
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/md-rabbi-28856339a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://mdrabbi-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/AA919Rabby">
-    <img src="https://komarev.com/ghpvc/?username=AA919Rabby&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Maps" width="40" height="40"/>
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets"/>
+  <img src="https://img.shields.io/badge/Maps_&_Geolocation-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Maps"/>
+</p>
+
 
 ---
 
